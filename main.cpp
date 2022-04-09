@@ -267,7 +267,7 @@ int main(){
     }else if(x==18){
         
         cout << "Enter the number\n";
-        cin >> w
+        cin >> w;
         cout << "Enter the number\n";
         cin >> x;
         cout << "Enter the number\n";
@@ -279,7 +279,7 @@ int main(){
     }else if(x==19){
         
         cout << "Enter the number\n";
-        cin >> z
+        cin >> z;
         cout << "Enter the number\n";
         cin >> ab;
     
